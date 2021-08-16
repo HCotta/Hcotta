@@ -2,7 +2,16 @@
  <div class="d-flex flex-justify-between">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HCotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HCotta&layout=compact&langs_count=7&theme=dracula"/>
+ 
 </div>
+
+  ##GitHub Stats
+  
+<a href="https://github.com/HCotta&show_icons=true/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=HCotta&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /></a>
+<a href="https://github.com/HCotta/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HCotta&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&count_private=true" /></a>
+ 
 <div class="text-center" style="display: inline-block;"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
