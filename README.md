@@ -1,8 +1,7 @@
  # HERBERT VICENTE COTTA JULIO
  <div class="d-flex flex-justify-between">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HCotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HCotta&layout=compact&langs_count=7&theme=dracula"/>
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HCotta&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
  
 <div class="text-center" style="display: inline-block;"><br>
