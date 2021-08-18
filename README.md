@@ -18,8 +18,8 @@
 </p>
 <br/>
 <p align="center" style="display: flex;">
-  <img height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=HCotta&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HCotta&layout=compact&langs_count=7&theme=dracula"/> 
+ <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=HCotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+ <img height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=HCotta&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10"/>
 </p>
 
 ## ☕ Languages & Tools
