@@ -42,6 +42,7 @@
 ![ReactNative](https://img.shields.io/badge/-ReactNative-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![Next.Js](https://img.shields.io/badge/-NextJs-565656?logo=Next.Js&logoColor=white&style=for-the-badge)&nbsp;
 ![Vue.Js](https://img.shields.io/badge/-VueJs-565656?logo=Vue.Js&logoColor=white&style=for-the-badge)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-565656?logo=Angular&logoColor=white&style=for-the-badge)&nbsp;
 
 
 ![Express](https://img.shields.io/badge/-Express-565656?logo=express&logoColor=white&style=for-the-badge)&nbsp;
