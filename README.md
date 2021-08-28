@@ -14,7 +14,7 @@
 
 <p style="margin-top: 30px;">
   Analytical view of the context, recommending actions and solutions with a focus on improvements, task optimization and cost reduction. Facilitating profile, with easy adaptation to business needs. Aiming to become an increasingly complete professional, always seeking to learn and develop projects to apply and share knowledge and experiences.
-  <a href='https://gist.github.com/HCotta/56ee7ccc3e19a7069d87103d5ff24ce7' target='_blank'>VSCode Settings</a>
+  <a href='https://gist.github.com/HCotta/8deb64740073cd9284741c5580eca6c9' target='_blank'>VSCode Settings</a>
 </p>
 <br/>
 <p align="center" style="display: flex;">
